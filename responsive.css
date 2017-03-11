@@ -1,4 +1,4 @@
-@media only screen and (max-height: 940px) {
+@media only screen and (max-height: 755px) {
 
 	h1 {
 	    font-size: 68px;
@@ -34,7 +34,7 @@
 }
 
 
-/*@media only screen and (max-height: 755px) {
+@media only screen and (max-height: 655px) {
 
 	h1 {
 	    font-size: 63px;
@@ -62,4 +62,52 @@
 	    padding: 8px 0;
 	}
 
-}*/
+}
+
+@media only screen and (max-height: 626px) {
+
+	h1 {
+		font-size: 60px;
+		line-height: 70px;
+	}
+
+	h2 {
+		font-size: 33px;
+		line-height: 38px;
+	}
+
+	p {
+		font-size: 21px;
+		line-height: 28px;
+	}
+
+	.sect-3 .triangle_right,
+	.sect-3 .triangle_left {
+		top: -115px;
+		border-bottom: 115px solid rgba(255, 255, 255, 1);
+	}
+
+	.red-btn-box {
+		margin: 7px 0 12px 0;
+	}
+
+	.red-btn-box .red-btn {
+		padding: 9px 2%;
+		font-size: 17px;
+		line-height: 21px;
+	}
+
+	ol li a {
+	    font-size: 17px;
+	    line-height: 17px;
+	    margin: 8px 0;
+	}
+
+	.num-list li {
+	    font-size: 17px;
+	    line-height: 28px;
+	}
+
+
+
+}
