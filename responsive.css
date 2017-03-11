@@ -32,18 +32,18 @@
 	}
 
 }
-/*
 
-@media only screen and (max-height: 768px) {
+
+@media only screen and (max-height: 755px) {
 
 	h1 {
-	    font-size: 68px;
-	    line-height: 74px;
+	    font-size: 63px;
+	    line-height: 72px;
 	}
 
 	p {
-	    font-size: 26px;
-	    line-height: 36px;
+	    font-size: 23px;
+	    line-height: 32px;
 	}
 
 	.promo-sect {
@@ -51,12 +51,7 @@
 	}
 
 	.sect-3 {
-	    padding: 5px 0;
-	}
-
-	.sect-3:before {
-	    height: 136px;
-	    width: 156px;
+	    padding: 0;
 	}
 
 	.sect-3 p.p-bold {
@@ -67,4 +62,4 @@
 	    padding: 8px 0;
 	}
 
-}*/
+}
