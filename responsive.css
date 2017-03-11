@@ -5,6 +5,11 @@
 	    line-height: 74px;
 	}
 
+	p {
+	    font-size: 26px;
+	    line-height: 36px;
+	}
+
 	.promo-sect {
 	    padding: 5px 0 35px 0;
 	}
