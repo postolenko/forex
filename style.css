@@ -384,7 +384,7 @@ a:active {
 
 .white-link:after {
     display: block;
-    width: 96%;
+    width: 100%;
     content: "";
     margin: 2px auto 0 auto;
     border-bottom: 1px solid #ff0000;
@@ -437,7 +437,6 @@ a:active {
     background-image: url(img/promo_bg.jpg);
     background-position: center;
     background-size: cover;
-    /*background-attachment: fixed;*/
     position: relative;
     padding: 30px 0 85px 0;
 }
