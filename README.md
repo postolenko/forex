@@ -1,1 +1,1 @@
-# http://postolenko.github.io/forex/index.html
+# http://postolenko.github.io/forex
