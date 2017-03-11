@@ -227,7 +227,7 @@ a:active {
     -webkit-tap-highlight-color: transparent;
 }
 
-#triangle_left {
+.triangle_left {
     position: absolute;
     top: -100px;
     left: 0;
@@ -237,7 +237,7 @@ a:active {
     border-right: 96px solid transparent;
 }
 
-#triangle_right {
+.triangle_right {
     position: absolute;
     top: -100px;
     right: 0;
@@ -499,11 +499,11 @@ a:active {
     background: rgba(175, 27, 45, 1);
 }
 
-.sect-2 #triangle_left {
+.sect-2 .triangle_left {
     border-bottom: 100px solid rgba(221, 36, 49, 1);
 }
 
-.sect-2 #triangle_right {
+.sect-2 .triangle_right {
     border-bottom: 100px solid rgba(175, 27, 45, 1);
 }
 
@@ -541,12 +541,12 @@ a:active {
     background-size: 100%;
 }
 
-.sect-3 #triangle_left {
+.sect-3 .triangle_left {
     top: -130px;
     border-bottom: 130px solid rgba(255, 255, 255, 1);
 }
 
-.sect-3 #triangle_right {
+.sect-3 .triangle_right {
     top: -130px;
     border-bottom: 130px solid rgba(255, 255, 255, 1);
 }
