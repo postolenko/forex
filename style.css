@@ -602,7 +602,7 @@ ol {
 }
 
 ol li {
-
+    
 }
 
 ol li a {
@@ -647,7 +647,6 @@ ol li a:after {
     transition-timing-function: ease;
 
 }
-
 
 ol li a:link:after,
 ol li a:visited:after {
